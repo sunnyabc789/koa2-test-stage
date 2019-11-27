@@ -1,0 +1,23 @@
+{
+  "name": "koa2-test-stage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnyabc789/koa2-test-stage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunnyabc789/koa2-test-stage/issues"
+  },
+  "homepage": "https://github.com/sunnyabc789/koa2-test-stage#readme",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.2.1"
+  }
+}
